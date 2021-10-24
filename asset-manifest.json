@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Restuarant_website-react/static/css/main.2584211e.chunk.css",
-    "main.js": "/Restuarant_website-react/static/js/main.fc15bbc3.chunk.js",
-    "main.js.map": "/Restuarant_website-react/static/js/main.fc15bbc3.chunk.js.map",
-    "runtime-main.js": "/Restuarant_website-react/static/js/runtime-main.2999344d.js",
-    "runtime-main.js.map": "/Restuarant_website-react/static/js/runtime-main.2999344d.js.map",
-    "static/js/2.0c15680a.chunk.js": "/Restuarant_website-react/static/js/2.0c15680a.chunk.js",
-    "static/js/2.0c15680a.chunk.js.map": "/Restuarant_website-react/static/js/2.0c15680a.chunk.js.map",
-    "index.html": "/Restuarant_website-react/index.html",
-    "static/css/main.2584211e.chunk.css.map": "/Restuarant_website-react/static/css/main.2584211e.chunk.css.map",
-    "static/js/2.0c15680a.chunk.js.LICENSE.txt": "/Restuarant_website-react/static/js/2.0c15680a.chunk.js.LICENSE.txt"
+    "main.css": "/Todolist-react/static/css/main.c40b4d9e.chunk.css",
+    "main.js": "/Todolist-react/static/js/main.3058fdbc.chunk.js",
+    "main.js.map": "/Todolist-react/static/js/main.3058fdbc.chunk.js.map",
+    "runtime-main.js": "/Todolist-react/static/js/runtime-main.3da2af85.js",
+    "runtime-main.js.map": "/Todolist-react/static/js/runtime-main.3da2af85.js.map",
+    "static/js/2.0341cf12.chunk.js": "/Todolist-react/static/js/2.0341cf12.chunk.js",
+    "static/js/2.0341cf12.chunk.js.map": "/Todolist-react/static/js/2.0341cf12.chunk.js.map",
+    "index.html": "/Todolist-react/index.html",
+    "static/css/main.c40b4d9e.chunk.css.map": "/Todolist-react/static/css/main.c40b4d9e.chunk.css.map",
+    "static/js/2.0341cf12.chunk.js.LICENSE.txt": "/Todolist-react/static/js/2.0341cf12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2999344d.js",
-    "static/js/2.0c15680a.chunk.js",
-    "static/css/main.2584211e.chunk.css",
-    "static/js/main.fc15bbc3.chunk.js"
+    "static/js/runtime-main.3da2af85.js",
+    "static/js/2.0341cf12.chunk.js",
+    "static/css/main.c40b4d9e.chunk.css",
+    "static/js/main.3058fdbc.chunk.js"
   ]
 }
