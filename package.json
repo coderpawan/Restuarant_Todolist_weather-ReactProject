@@ -2,7 +2,7 @@
   "name": "practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://coderpawan.github.io/Restuarant_website-react",
+  "homepage": "http://coderpawan.github.io/Todolist-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
