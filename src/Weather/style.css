@@ -1,0 +1,133 @@
+body,html{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(52, 45, 45);
+    scroll-behavior: smooth;
+}
+.search{
+    position: relative;
+    top: 70px;
+    left: 37%;
+}
+#search{
+    width: 414px;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    position: relative;
+    left: 3px
+}
+#search:hover{
+    border: 6px solid blue;
+    transition: border-width 0.1s linear;
+}
+.searchButton{
+    position: relative;
+    left: -93px;
+    padding: 6.1px 25px;
+    border-radius: 0px 10px 10px 0px;
+    top: -0.7px;
+    background-color: cadetblue;
+    color: white;
+}
+.searchButton:hover{
+    border: 6px solid;
+    border-bottom-color: red;
+    border-right-color: blue;
+    border-top-color: greenyellow;
+    border-style: groove;
+    transition: border-width 0.1s linear;
+}
+.widget{
+    height: 470px;
+    width: 800px;
+    position: relative;
+    top: 100px;
+    left: 360px;
+    background-color: white;
+    border-radius: 15px;
+}
+.weatherIcon{
+    height: 200px;
+}
+.weatherIcon img{
+    height: 170px;
+    position: relative;
+    top: 12px;
+    left: 315px;
+}
+.weather{
+    display: flex;
+}
+.weatherInfo{
+    width: 70%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.temperature{
+    font-size: 70px;
+    position: relative;
+    top: 30px;
+    left: 18px;
+}
+.description{
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.weatherCondition{
+    font-size: 36px;
+}
+.place{
+    position: relative;
+    top: 0px;
+}
+.date span{
+    font-size: 35px;
+    position: relative;
+    top: 32px;
+    left: 33px;
+}
+
+.date{
+    width: 30%;
+    background-color: blue;
+    color: white;
+}
+.extra-temp{
+    position: relative;
+    top: -17px;
+    height: 121px;
+    left: 11px;
+}
+.temp-info-minmax{
+display: flex;
+}
+.two-sided-section{
+    display: flex;
+    margin: 0px 5px;
+    margin-right: 45px;
+}
+.two-sided-section img{
+    height: 80px;
+    position: relative;
+    width: 80px;
+    top: 40px;
+}
+.two-sided-section p{
+    position: relative;
+    top: 40px;
+    left: 16px;
+    width: 75px;
+}
+.weather-extra-info{
+    display: flex;
+}
+.extra-info-leftside{
+    font-size: 18px;
+    font-weight: bold;
+}

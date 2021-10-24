@@ -1,0 +1,99 @@
+html,body{
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(73, 29, 96);
+}
+.todoList{
+    height: 30000px;
+}
+.todoHeading{
+    position: relative;
+    top: -80px;
+}
+.Input{
+    position: relative;
+    top: -50px;
+}
+.todoHeading img{
+    height: 100px;
+    position: relative;
+    left: 43%;
+    top: 100px;
+}
+.todoHeading p{
+    position: relative;
+    top: 100px;
+    left: 36%;
+    font-size: 28px;
+    font-weight: bold;
+    color: aquamarine;
+}
+.Input input{
+    position: relative;
+    top: 110px;
+    left: 32%;
+    width: 27%;
+    padding: 11px 5px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.add-btn{
+    position: relative;
+    top: 112px;
+    left: 30%;
+    cursor: pointer;
+}
+.add-btn:hover{
+    color: rgb(249, 131, 253);
+}
+
+.btn{
+    position: relative;
+    top: 150px;
+    left: 42%;
+    padding: 14px 17px;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: salmon;
+    font-weight: bold;
+    cursor: pointer;
+}
+.eachItem{
+    margin: -46px 0px;
+}
+.eachItem h3{
+    position: relative;
+    top: 119px;
+    left: 500px;
+    width: 25%;
+    background-color: rgb(15, 152, 182);
+    padding: 8px 7px;
+    border-radius: 10px;
+}
+.fa-user-pen{
+    position: relative;
+    left: 54%;
+    top: 72px;
+    font-size: 23px;
+    cursor: pointer;
+}
+.fa-trash-can{
+    position: relative;
+    left: 55%;
+    top: 72px;
+    font-size: 22px;
+    cursor: pointer;
+}
+.fa-user-pen:hover{
+    color: rgb(140, 252, 102);
+}
+.fa-trash-can:hover{
+    color: red;
+}
+.edit{
+    position: relative;
+    top: 114px;
+    left: 430px; 
+}
+

@@ -1,0 +1,44 @@
+@media only screen and (max-width:500px){
+.todoHeading img{
+    position: relative;
+    left: 38%;
+}
+.todoHeading p{
+    position: relative;
+    left: 6%;
+    font-size: 26px;
+}
+.Input input{
+    position: relative;
+    left: 3%;
+    width: 87%;
+}
+.add-btn{
+    position: relative;
+    left: -7%;
+}
+.eachItem h3{
+    position: relative;
+    left: 22px;
+    width: 80%;
+}
+.fa-user-pen{
+    position: relative;
+    left: 69%;
+}
+.fa-trash-can{
+    position: relative;
+    left: 73%;
+}
+.btn{
+    position: relative;
+    left: 31%;
+}
+.edit{
+    position: relative;
+    left: -35px; 
+}
+
+
+
+}
